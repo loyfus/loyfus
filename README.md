@@ -2,6 +2,5 @@
 
 Algumas informações sobre mim
 
-- 🔭 Atualmente faço freelancer de criação de sites
-- 🌱 Atualmente tenho conhecimento em HTML, CSS, JAVASCRIPT e JAVA
-- 🤔 Estou aprendendo recentemente como usar o GIT então não tem muitos projetos online
+- 🔭 Atualmente faço freelancer de criação de sites e estudo Swift
+- 🌱 Atualmente tenho conhecimento em Desenvolvimento Web e IOS
