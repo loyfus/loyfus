@@ -2,5 +2,5 @@
 
 Algumas informações sobre mim
 
-- 🔭 Atualmente faço freelancer de criação de sites e estudo Desenvolvimento de software
-- 🌱 Atualmente tenho conhecimento em Desenvolvimento Backend e Mobile
+- 🔭 Atualmente tabalho como Desenvolvedor Backend em PHP
+- 🌱 Tenho conhecimento em PHP, Java e SQL
