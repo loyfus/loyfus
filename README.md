@@ -14,7 +14,7 @@ Algumas informações sobre mim
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=loyfus&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=loyfus&layout=compact"
