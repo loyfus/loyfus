@@ -8,8 +8,8 @@
 
 Algumas informações sobre mim
 
-- 🔭 Atualmente tabalho como Desenvolvedor Backend em PHP
-- 🌱 Tenho conhecimento em PHP, Java e SQL
+- 🔭 Atualmente tabalho como Desenvolvedor
+- 🌱 Tenho conhecimento em PHP, JavaScript e SQL
 
 <picture>
   <source
