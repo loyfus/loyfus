@@ -8,8 +8,8 @@
 
 Algumas informações sobre mim
 
-- 🔭 Atualmente sou estudante de Desenvolvimento de Software
-- 🌱 Tenho conhecimento em PHP, JavaScript e SQL
+- Atualmente sou estudante de Desenvolvimento de Software
+- Tenho conhecimento em PHP, JavaScript e SQL
 
 <picture>
   <source
