@@ -8,7 +8,7 @@
 
 Algumas informações sobre mim
 
-- 🔭 Atualmente tabalho como Desenvolvedor
+- 🔭 Atualmente sou estudante de Desenvolvimento de Software
 - 🌱 Tenho conhecimento em PHP, JavaScript e SQL
 
 <picture>
