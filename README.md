@@ -8,7 +8,7 @@
 
 Algumas informações sobre mim
 
-- Atualmente sou estudante de Desenvolvimento de Software
+- Atualmente trabalho como Desenvolvedor de Software
 - Tenho conhecimento em PHP, JavaScript e SQL
 
 <picture>
