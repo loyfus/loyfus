@@ -4,9 +4,9 @@
   <a href="https://www.linkedin.com/in/fepeenha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Oi sou o Felipe 👋
+### Oi sou o Luiz 👋
 
-Algumas informações sobre mim
+Algumas informações sobre mim:
 
 - Atualmente trabalho como Desenvolvedor de Software
 - Tenho conhecimento em PHP, JavaScript e SQL
