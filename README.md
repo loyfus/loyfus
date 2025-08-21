@@ -9,7 +9,8 @@
 Algumas informações sobre mim:
 
 - Atualmente trabalho como Desenvolvedor de Software
-- Tenho conhecimento em PHP, JavaScript e SQL
+- Estou fazendo grduação em Analise e Desenvolvimento de Sistemas
+- Tenho conhecimento em PHP (Laravel e Codeigniter), JavaScript (React e Node) e MySQL
 
 <picture>
   <source
