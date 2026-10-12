@@ -41,18 +41,6 @@ minha vida até aqui.
 | | iOS | Android |
 | --- | --- | --- |
 | Stack | SwiftUI · iOS 17+ · zero dependência | Kotlin · Compose · MVVM |
-| Testes | 54 XCTest | 38 de unidade |
-
-O problema é do domínio, não da tela: no Brasil o preço de um lote está
-espalhado em dezenas de portal, o título vem em CAIXA ALTA com código de
-anúncio no meio — `CHEVROLET CLASSIC LS 2010 2011 CINZA` — e o prazo fica
-escondido. A regra que limpa esse título é a mesma nos dois clientes, e os
-dois são testados contra o **mesmo arquivo golden**, byte a byte idêntico nos
-dois repositórios. São 1.566 títulos reais.
-
-Escolhi golden file em vez de valor fixo no teste porque foi o jeito que
-achei de transformar "os dois têm que concordar" em algo que a máquina
-confere, e não em uma intenção minha.
 
 ##Outras coisas
 
@@ -66,23 +54,7 @@ confere, e não em uma intenção minha.
 - **[anime-api](https://github.com/loyfus/anime-api)** e
   **[anime-web](https://github.com/loyfus/anime-web)** — API e front de animes.
 
-## Como eu trabalho
-
-Prefiro comentário explicando **por quê** e o que foi descartado, em vez de
-repetir o que o código já diz. Foi por isso que os READMEs do Loyfus são
-longos: registram decisão, não só resultado.
-
-Uso agente de código no fluxo — dá pra ver nos nomes das branch
-(`codex/...`) e num `AGENTS.md` que obliga a documentar rota nova no README.
-Subir branch, revisar o diff, mergear. Não é o agente decidindo sozinho, é
-eu conferindo cada linha — mas economiza a parte mecânica.
-
-Uma coisa que me atrapalha: mantenho este perfil mais ou menos atualizado e ainda
-assim tem projeto antigo parado aqui. Faz parte.
-
 ---
-
-Estes são projetos de estudo — nenhum está em produção.
 
 <p align="center">
   <picture>
