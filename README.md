@@ -36,7 +36,7 @@ Catálogo de leilões brasileiros com dado de verdade: **20.229 lotes**, 1.366
 leilões, 19 categorias e 141.304 fotos. O projeto de código mais trabalhoso da
 minha vida até aqui.
 
-**[iOS](https://github.com/loyfus/loyfus-ios)** · **[Android](https://github.com/loyfus/loyfus-android)**
+**[iOS](https://github.com/loyfus/lote-ios)** · **[Android](https://github.com/loyfus/lote-android)**
 
 | | iOS | Android |
 | --- | --- | --- |
