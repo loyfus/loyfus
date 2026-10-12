@@ -33,16 +33,16 @@ duas implementações.
 
 ## Outros projetos
 
-- [indexadorBackEnd](https://github.com/loyfus/indexadorBackEnd) — API de busca
+- [ai-tools-api](https://github.com/loyfus/ai-tools-api) — API de busca
   vetorial de ferramentas de IA sobre MongoDB Atlas Search, em camadas
   (rotas, controllers, serviços, repositório), com a camada de dados gerada
-  pelo [AI-Crowler](https://github.com/loyfus/AI-Crowler).
-- [duckSnap](https://github.com/loyfus/duckSnap) — app desktop (Electron +
+  pelo [ai-crawler](https://github.com/loyfus/ai-crawler).
+- [ducksnap](https://github.com/loyfus/ducksnap) — app desktop (Electron +
   SQLite) para snapshots versionados de projetos locais.
-- [animeSwift](https://github.com/loyfus/animeSwift) — app macOS em SwiftUI sobre
-  a API GraphQL do AniList.
-- [LoyfusAnime](https://github.com/loyfus/animeFrontEnd) — front em React para
-  uma API de animes.
+- [anime-macos](https://github.com/loyfus/anime-macos) — app macOS em SwiftUI
+  sobre a API GraphQL do AniList.
+- [anime-api](https://github.com/loyfus/anime-api) e
+  [anime-web](https://github.com/loyfus/anime-web) — API e front de animes.
 
 ## Como trabalho
 
