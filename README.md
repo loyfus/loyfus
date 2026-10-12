@@ -12,7 +12,8 @@
 
 # Oi, eu sou o Luiz
 
-Desenvolvedor de software, cursando Análise e Desenvolvimento de Sistemas.
+Luiz Felipe Penha. Desenvolvedor de software, cursando Análise e
+Desenvolvimento de Sistemas.
 
 Hoje é muito **Swift** e **Kotlin** — app nativo dos dois lados, o mesmo
 produto rodando em iOS e Android. Antes disso foram anos de PHP (Laravel e
@@ -21,9 +22,19 @@ testar as coisa na mão antes de entregar.
 
 ## Loyfus
 
-O projeto em que estou mais fundo agora. Catálogo de leilões brasileiros com
-dado de verdade: **20.229 lotes**, 1.366 leilões, 19 categorias e 141.304
-fotos.
+Estúdio de engenharia de IA em BH. Automação e agente para empresa —
+atendimento, leitura de documento, follow-up, integração.
+
+**[loyfus.com.br](https://loyfus.com.br)**
+
+Você conversa com quem escreve o código, da primeira conversa até a entrega.
+É uma pessoa, não um time de vendas na frente.
+
+## App de leilão
+
+Catálogo de leilões brasileiros com dado de verdade: **20.229 lotes**, 1.366
+leilões, 19 categorias e 141.304 fotos. O projeto de código mais trabalhoso da
+minha vida até aqui.
 
 **[iOS](https://github.com/loyfus/loyfus-ios)** · **[Android](https://github.com/loyfus/loyfus-android)**
 
@@ -66,7 +77,7 @@ Uso agente de código no fluxo — dá pra ver nos nomes das branch
 Subir branch, revisar o diff, mergear. Não é o agente decidindo sozinho, é
 eu conferindo cada linha — mas economiza a parte mecânica.
 
-Uma coisa que困扰a: mantenho este perfil mais ou menos atualizado e ainda
+Uma coisa que me atrapalha: mantenho este perfil mais ou menos atualizado e ainda
 assim tem projeto antigo parado aqui. Faz parte.
 
 ---
