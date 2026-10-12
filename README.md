@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/luizzzpenha" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:felipepenha32@gmail.com">
+  <a href="mailto:oi@loyfus.com.br">
     <img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
